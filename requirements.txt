@@ -1,0 +1,4 @@
+Flask
+flask-session-captcha 
+Flask-Sessionstore
+Flask-SQLAlchemy
